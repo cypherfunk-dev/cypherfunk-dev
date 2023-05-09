@@ -1,2 +1,2 @@
 # Hi There :wave: 
-## Open Source enthusiast | Currently taking a JavaScript Bootcamp 
+## Open Source enthusiast | Currently taking an AWS course
