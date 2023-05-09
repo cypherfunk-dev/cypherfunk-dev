@@ -1,2 +1,2 @@
 # Hi There :wave: 
-## Open Source enthusiast | Currently taking an AWS course
+## Open Source enthusiast |  Constantly Learning Things | Love music, reading, Technology | For now i mainly develop Web Sites
