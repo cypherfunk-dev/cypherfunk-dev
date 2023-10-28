@@ -1,5 +1,6 @@
 
+- HTML - CSS - Javascript - SQL - NodeJs - Wordpress - R
 
-- Javascript - HTML - CSS - SQL - NodeJs
+Currently interesed on: LLMS implementation, Data Analytics, React & Cloud.
 
-Currently interesed on: LLMS implementation, Data Analytics & React.
+https://www.linkedin.com/in/carlosandresgm/
