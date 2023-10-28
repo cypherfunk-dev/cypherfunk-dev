@@ -1,9 +1,7 @@
-# Hi There :wave: 
 
-- Javascript
-- HTML
-- CSS
-- SQL
-- NodeJs
+
+- Javascript - HTML - CSS - SQL - NodeJs
+
+Currently interesed on : LLMS implementation, Data Analytics & React
 
 
