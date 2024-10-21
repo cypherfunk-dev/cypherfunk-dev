@@ -1,6 +1,6 @@
 
 - HTML - CSS - Javascript
-- React - SQL - NodeJs - Wordpress - R
+- React - SQL - NodeJs - Wordpress - Python
 
 https://www.linkedin.com/in/carlosandresgm/
 
