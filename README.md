@@ -1,6 +1,6 @@
 
 - HTML - CSS - Javascript
-- React - SQL - NodeJs - Wordpress - Python
+- React - SQL - NodeJs - Python
 
 
 
